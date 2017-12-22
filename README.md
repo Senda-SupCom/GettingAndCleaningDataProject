@@ -29,7 +29,7 @@ Create an R script called run_analysis.R that does the following:
 ## Project Outcome :
 includes:
 
-1. a tidy data set based on the original data set: [tidy_data.txt](https://github.com/Senda-SupCom/GettingAndCleaningDataProject/blob/master/tidy_data.txt) and [tidy_data.csv](https://github.com/Senda-SupCom/GettingAndCleaningDataProject/blob/master/tidy_data.csv) (nicely formatted on GitHub)
+1. a tidy data set based on the original data set: [tidy_data.txt](https://github.com/Senda-SupCom/GettingAndCleaningDataProject/blob/master/tidy_data.txt) and [tidy_data.csv](https://github.com/Senda-SupCom/GettingAndCleaningDataProject/blob/master/tidy_data.csv) 
 
 2. an R script called [run_analysis.R](https://github.com/Senda-SupCom/GettingAndCleaningDataProject/blob/master/run_analysis.R) for performing the analysis 
 

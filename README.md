@@ -31,7 +31,7 @@ includes:
 
 1. a tidy data set based on the original data set: [tidy_data.txt](https://github.com/Senda-SupCom/GettingAndCleaningDataProject/blob/master/tidy_data.txt) and [tidy_data.csv](https://github.com/Senda-SupCom/GettingAndCleaningDataProject/blob/master/tidy_data.csv) (nicely formatted on GitHub)
 
-2. an R script called [run_analysis.R](https://github.com/zezutom/GetAndCleanDataProject/blob/master/run_analysis.R) for performing the analysis 
+2. an R script called [run_analysis.R](https://github.com/Senda-SupCom/GettingAndCleaningDataProject/blob/master/run_analysis.R) for performing the analysis 
 
 3. a code book called [CodeBook.md](https://github.com/zezutom/GetAndCleanDataProject/blob/master/CodeBook.md) for describing variables, data and any transformations or work performed to clean up the data 
 
